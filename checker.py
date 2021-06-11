@@ -1,7 +1,7 @@
 from requests import Request, Session
 import json
 import re
-url='https://abusiveexperiencereport.googleapis.com/v1/violatingSites?key=AIzaSyBemD4ydfEu7OjJy7z54ZxQgCD_Qo24GxM'
+url='https://abusiveexperiencereport.googleapis.com/v1/violatingSites?key=[ur api key]'
 headers={
     'Accept': 'application/json'
 }
